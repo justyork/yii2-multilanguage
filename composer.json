@@ -1,0 +1,11 @@
+{
+    "name": "justyork/yii2-multilanguage",
+    "description": "Multilanguage component for yii2",
+    "authors": [
+        {
+            "name": "York",
+            "email": "yorkshp@gmail.com"
+        }
+    ],
+    "require": {}
+}
