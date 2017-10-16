@@ -6,7 +6,7 @@
  * Time: 21:52
  */
 
-namespace frontend\components;
+namespace justyork\yii2_multilanguage\components;
 
 use common\models\Language;
 use yii\web\Request;

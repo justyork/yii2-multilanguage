@@ -6,7 +6,7 @@
  * Time: 15:33
  */
 
-namespace common\behaviors;
+namespace justyork\yii2_multilanguage\behaviors;
 
 use common\models\Language;
 use dosamigos\tinymce\TinyMce;
