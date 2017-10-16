@@ -7,5 +7,6 @@
             "email": "yorkshp@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
